@@ -1,4 +1,4 @@
-# Stokku — Manajemen Barang
+# Stok Barang di Gudang — Manajemen Barang
 
 Aplikasi inventaris sederhana untuk mencatat stok barang.
 
